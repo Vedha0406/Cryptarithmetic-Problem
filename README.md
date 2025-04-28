@@ -122,7 +122,8 @@ else:
     print("No solution found.")
 ~~~
 <H3>OUTPUT:</H3>
-![Screenshot 2025-04-28 094512](https://github.com/user-attachments/assets/034411dd-b499-476f-ab8b-5b5fb2d3ab3e)
+
+![Screenshot 2025-04-28 094512](https://github.com/user-attachments/assets/8b576674-0bac-4a3d-bd92-b473a1379476)
 
 <h2>Result:</h2>
 <p> Thus a Cryptarithmetic Problem was solved using Python successfully</p>
